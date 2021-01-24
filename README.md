@@ -10,7 +10,7 @@
 
 ## Skills 🤹
 
-**My toolbox 🔧**
+### My toolbox 🔧
 
 <div align="center">
     <img src="assets/html5.gif" width="70px"/>
