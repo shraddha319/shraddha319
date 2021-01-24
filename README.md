@@ -27,15 +27,16 @@
 ## My GitHub Stats 📊
 
 ### streak stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha319&theme=chartreuse-dark" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shraddha319&theme=chartreuse-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 ### Top languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraddha319&layout=compact&hide=Jupyter Notebook"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shraddha319&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <hr>
 
-### Connect with me 🤝
+## Let's connect! 🤝
 
 <div align="center">
     <a href="https://twitter.com/SShraddha6">
