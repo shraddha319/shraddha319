@@ -6,8 +6,6 @@
 - 💬 Ask me about anything.
 
 
-<hr>
-
 ## Skills 🤹
 
 ### My toolbox 🔧
@@ -22,8 +20,6 @@
     <img src="assets/linux.gif" width="70px"/>
 </div>
 
-<hr>
-
 ## My GitHub Stats 📊
 
 ### streak stats
@@ -33,8 +29,6 @@
 ### Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shraddha319&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<hr>
 
 ## Let's connect! 🤝
 
