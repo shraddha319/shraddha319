@@ -42,21 +42,21 @@
     <a href="https://twitter.com/SShraddha6">
         <img alt="shraddha | Twitter"
             src="assets/twitter.svg"
-            width="35px" />
+            width="50px" />
     </a>
     <a href="https://www.linkedin.com/in/shraddha-s/">
         <img alt="shraddha | Linkedin"
             src="assets/linkedin.svg"
-            width="35px" />
+            width="50px" />
     </a>
     <a href="https://www.instagram.com/_shraddha1998_/">
         <img alt="shraddha | Instagram"
             src="assets/instagram.svg"
-            width="35px" />
+            width="50px" />
     </a> 
     <a href="">
         <img alt="shraddha | stackoverflow"
             src="assets/stack-overflow.svg"
-            width="35px" />
+            width="50px" />
     </a>
 </div>
