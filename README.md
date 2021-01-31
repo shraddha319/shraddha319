@@ -3,8 +3,8 @@
 </h1>
 
 
-- 🌱 I’m currently learning ReactJS.
-- 💬 Ask me about anything.
+### 🌱 I’m currently learning ReactJS.
+### 💬 Ask me about anything.
 
 
 ## Skills 🤹
@@ -21,6 +21,9 @@
     <img src="assets/linux.gif" width="70px"/>
 </div>
 
+## Latest Blog 📝
+
+### • [Did you Git it | hashnode](https://shraddha319.hashnode.dev/did-you-git-it)
 
 ## My GitHub Stats 📊
 
