@@ -23,7 +23,7 @@
 
 ## Latest Blog 📝
 
-### • [Did you Git it | hashnode](https://shraddha319.hashnode.dev/did-you-git-it)
+### • [Did you Git it? | hashnode](https://shraddha319.hashnode.dev/did-you-git-it)
 
 ## My GitHub Stats 📊
 
