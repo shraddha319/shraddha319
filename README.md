@@ -23,6 +23,7 @@
 
 ## Latest Blog 📝
 
+### • [Null vs. Undefined - Javascript | hashnode](https://shraddha319.hashnode.dev/null-vs-undefined-javascript)
 ### • [Did you Git it? | hashnode](https://shraddha319.hashnode.dev/did-you-git-it)
 
 ## My GitHub Stats 📊
