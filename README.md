@@ -61,10 +61,13 @@
     </a>
 </div>
 
-## Here's a meme to make your day better 🙂
-
+<!---
+## Here's a meme to make your day better 🙂 --->
+<!---
 <div>
     <img src="https://meme-generator.sshraddha.repl.co" height="400px" />
     <p>(Reload page for a new meme)</p>
 </div>
+--->
+
 
