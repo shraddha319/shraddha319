@@ -49,11 +49,6 @@
             src="assets/linkedin.svg"
             width="50px" />
     </a>
-    <a href="https://www.instagram.com/_shraddha1998_/">
-        <img alt="shraddha | Instagram"
-            src="assets/instagram.svg"
-            width="50px" />
-    </a> 
     <a href="">
         <img alt="shraddha | stackoverflow"
             src="assets/stack-overflow.svg"
