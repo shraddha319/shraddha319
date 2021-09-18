@@ -66,7 +66,6 @@
     <a href="https://twitter.com/SShraddha6" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" />
     </a>
-<<<<<<< HEAD
     <a href="https://shraddha319.hashnode.dev" target="_blank">
     <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?&style=for-the-badge&logo=Hashnode&logoColor=white" />
     </a>
@@ -74,22 +73,3 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
     </a>
 </div>
-=======
-    <a href="">
-        <img alt="shraddha | stackoverflow"
-            src="assets/stack-overflow.svg"
-            width="50px" />
-    </a>
-</div>
-
-<!---
-## Here's a meme to make your day better 🙂 --->
-<!---
-<div>
-    <img src="https://meme-generator.sshraddha.repl.co" height="400px" />
-    <p>(Reload page for a new meme)</p>
-</div>
---->
-
-
->>>>>>> 16354c63ff3a613fb16e213f8019ec0ad774f6af
