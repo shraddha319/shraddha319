@@ -64,14 +64,14 @@
 <h3>Let's connect! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"></h3>
 
 <div align="center">
-    <a href="https://github.com/shraddha319" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=Github&logoColor=white" />
-    </a>
     <a href="https://twitter.com/SShraddha6" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" />
     </a>
     <a href="https://shraddha319.hashnode.dev" target="_blank">
     <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?&style=for-the-badge&logo=Hashnode&logoColor=white" />
+    </a>
+    <a href="https://dev.to/shraddha319" target="_blank">
+    <img alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?&style=for-the-badge&logo=dev.to&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/shraddha-s/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
