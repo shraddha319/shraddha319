@@ -33,9 +33,13 @@
 
 </br>
 
-<h3>My latest posts <img src="https://media.giphy.com/media/YLsf4Kvdsa9GivKbEZ/giphy.gif" width="30"></h3>
+<h3>My latest blog posts <img src="https://media.giphy.com/media/YLsf4Kvdsa9GivKbEZ/giphy.gif" width="30"></h3>
 <ul>
-      <li>
+    <li>
+        <a href="https://dev.to/shraddha319/javascript-polyfills-foreach-map-filter-and-reduce-1016">Javascript Polyfills: forEach, map, filter and reduce</a></br>
+        <i></i>
+    </li>
+    <li>
         <a href="https://shraddha319.hashnode.dev/validation-and-handling-errors-in-express-api-dry-practices">Validation and Handling Errors in Express API + DRY practices</a></br>
         <i></i>
     </li>
