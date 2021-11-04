@@ -1,5 +1,5 @@
 <h2 align="center">
-    👋 Hello,  I'm <a href="https://shraddha-shekar.netlify.app/">Shraddha</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+    👋 Hello,  I'm <a href="https://sshraddha.netlify.app/">Shraddha</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
 <h3>Things I code with <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
