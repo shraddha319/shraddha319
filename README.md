@@ -55,11 +55,7 @@
 
 </br>
 
-| <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha319&theme=buefy&hide_border=true" alt="Shraddha's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraddha319&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-
-</br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraddha319&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <h3>Let's connect! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"></h3>
 
